@@ -1,3 +1,17 @@
+
+
+#About 
+This is a crowd fund me app.
+First public solidity project, i'm super exicted to be pushing this out. 
+
+#Getting started
+
+#requirement 
+
+#Quick start
+
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**

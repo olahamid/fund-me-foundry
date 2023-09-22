@@ -1,0 +1,6 @@
+fundMeTest:testAddsFunderToArrayofFunders() (gas: 99746)
+fundMeTest:testFundfailwithoutenoughETH() (gas: 22944)
+fundMeTest:testMindollarisffive() (gas: 5525)
+fundMeTest:testWithdrawFromASingleFunder() (gas: 86499)
+fundMeTest:testownerismsgsender() (gas: 7799)
+fundMeTest:testupdatedatastructure() (gas: 99332)
